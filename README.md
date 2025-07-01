@@ -32,5 +32,5 @@ The system enables users to send commands via the Telegram app to switch devices
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/krishnam0409/Telegram-Home-Automation.git
+   git clone https://github.com/kmeriya-123/Telegram-Home-Automation.git
    cd Telegram-Home-Automation
